@@ -11,8 +11,10 @@ This dataset compiles cancer-related patient data collected from various hospita
 * Validate the findings and write a summary
 
 
-#Some visualization graphs 
+# Some visualization graphs 
 ![My Project Logo](img/1.png)
+
+
 
 
 
